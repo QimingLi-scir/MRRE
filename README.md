@@ -1,4 +1,4 @@
-**Unlocking Multilingual Reasoning Capabilities of LLMs and LVLMs via Representation Engineering**
+# Unlocking Multilingual Reasoning Capabilities of LLMs and LVLMs via Representation Engineering**
 
 ## Evaluation code is released.
 
