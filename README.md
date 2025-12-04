@@ -12,5 +12,10 @@ If you are using other datasets, please find the corresponding prompts in evalua
 If you find our code/paper helpful, please consider citing our papers 📝 and staring us ⭐️！
 
 ```bib
-
+@article{li2025unlocking,
+  title={Unlocking Multilingual Reasoning Capability of LLMs and LVLMs through Representation Engineering},
+  author={Li, Qiming and Feng, Xiaocheng and Ma, Yixuan and Ye, Zekai and Chen, Ruihan and Feng, Xiachong and Qin, Bing},
+  journal={arXiv preprint arXiv:2511.23231},
+  year={2025}
+}
 ```
