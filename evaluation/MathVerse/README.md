@@ -1,5 +1,9 @@
 # Benchmark Evaluation
 
+## 0. Image Data
+
+You can download the image used in MathVerse from this [website](https://huggingface.co/datasets/AI4Math/MathVerse).
+
 ## 1. Generate Answer
 
 ### Evaluation Command
