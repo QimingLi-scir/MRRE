@@ -19,6 +19,10 @@ Images can be downloaded from the MathVista dataset: https://huggingface.co/data
 
 ## 2. Score Answer
 
+### Preprocess
+run preprocess.py to unify pred_answer and golden answer format.
+
+
 ### Input File Format
 
 The evaluation code accepts JSON format input files, with each sample containing the following fields:
