@@ -1,5 +1,9 @@
 # Benchmark Evaluation
 
+## 0. Image Data
+
+You can download the image data used in MathVista from this [website](https://huggingface.co/datasets/AI4Math/MathVista).
+
 ## 1. Generate Answer
 
 ### Evaluation Command
